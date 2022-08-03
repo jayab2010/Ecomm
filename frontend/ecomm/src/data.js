@@ -26,7 +26,7 @@ const data = {
         },
         {
             name:'Nike Jogger',
-            slug:'nike shirt',
+            slug:'nike Jogger',
             category: 'shirts',
             image:'/images/p3.jpg',
             price:120,
@@ -50,3 +50,4 @@ const data = {
         },
     ],
 };
+export default data;
