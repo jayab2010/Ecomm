@@ -13,7 +13,7 @@ header{
 
 }
 header a {
-  color: #ffffff;
+  color: #5FDAFB;
   font-weight: bold;
   text-decoration: none;
   
@@ -30,7 +30,7 @@ main{
 }
 
 .product{
-  border: #404040 solid;
+  border: #5FDAFB solid;
   margin: 1rem;
 }
 
