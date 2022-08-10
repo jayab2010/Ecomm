@@ -13,7 +13,11 @@ body {
 
 main{
  flex: 1;
- 
+
+}
+.btn-primary {
+  background-color: #f0c040;
+  color: #000000;
 }
 
 .products{
@@ -21,6 +25,10 @@ main{
   flex-wrap: wrap;
   justify-content: center;
 }
+.rating span {
+  color: #ffc000;
+}
+
 
 .product{
   border: #5FDAFB solid;
@@ -29,7 +37,7 @@ main{
 
 .product img{
   width: 100%;
-  max-width: 300px;
+  max-width: 400px;
 }
 
 .product-info{
