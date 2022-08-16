@@ -21,9 +21,6 @@ const reducer = (state, action)=> {
           }
         };
 
-
-
-
 function HomeScreen(){
 const [{loading, error, products}, dispatch] = useReducer(logger(reducer), {
   products:[],
